@@ -10,6 +10,9 @@ This mini project simulates a **traffic light system** at an intersection using 
 - **Generator** → Cycles through lights (`Red → Green → Yellow`)  
 ---
 
+## 🎥 Preview
+![Traffic Light](traffic_light.gif)
+
 ## 🚀 How to Run
 
 ### 1️⃣ Console Version
